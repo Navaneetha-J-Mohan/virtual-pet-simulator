@@ -24,11 +24,11 @@ Try the app online: **[Virtual Pet Simulator on Streamlit Cloud](https://virtual
 
 # ⚡ Dependencies
 
--Streamlit
--Pillow (for image handling)
+- Streamlit
+- Pillow (for image handling)
 
 # 📝 Notes
 
--Keep your images/ and sounds/ folders organized with correct file names.
--Streamlit version ≥ 1.26 recommended for st.toast().
--All sounds should be local .mp3 files in the sounds/ folder.
+- Keep your images/ and sounds/ folders organized with correct file names.
+- Streamlit version ≥ 1.26 recommended for st.toast().
+- All sounds should be local .mp3 files in the sounds/ folder.
