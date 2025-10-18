@@ -20,7 +20,7 @@ Feed, play, and care for multiple pets while monitoring their **happiness**, **h
 
 ## 🌐 Live Deployment
 
-Try the app online: **[Virtual Pet Simulator on Streamlit Cloud]()**
+Try the app online: **[Virtual Pet Simulator on Streamlit Cloud](https://virtual-pet-simulator-upn49desneuzhjhf9nzays.streamlit.app)**
 
 # ⚡ Dependencies
 
